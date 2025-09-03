@@ -1,4 +1,4 @@
-# SuperDuper – Reliable Cloning & Backup Utility 
+# SuperDuper Mac – Reliable Cloning & Backup Utility 
 
 <div align="center">  
 <img src="https://www.shirt-pocket.com/SuperDuper/graphics/SuperDuper-Header.gif" alt="SuperDuper Mac Logo">  
